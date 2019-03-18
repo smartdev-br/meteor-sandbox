@@ -1,0 +1,4 @@
+Projeto: aplicativo desenvolvido com framework meteor.js (node.js, react.js e mogoDB).
+Uma simples lista de tarefas que suporta colaboração, cadastro de usuarios, login com o facebook
+e atualiza as informações em tempo real com os clientes e o servidor. 
+O tutorial se encontra no site oficial do meteor.js
