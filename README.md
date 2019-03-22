@@ -1,4 +1,4 @@
-## SmastDevs - lista de tarefas compartilhada
+## SmartDevs - lista de tarefas compartilhada
 **Projeto: aplicativo desenvolvido com framework meteor.js (node.js, react.js e mogoDB).**
 
 Uma simples lista de tarefas que suporta colaboração, cadastro de usuarios, login com o facebook
