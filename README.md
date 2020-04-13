@@ -8,7 +8,7 @@ Uma simples lista de tarefas que suporta colaboração, cadastro de usuarios, lo
 
 Baseado no [ tutorial oficial](https://www.meteor.com/tutorials/react/creating-an-app) do meteor.js.
 
-O app roda em um [ Docker container](https://www.docker.com/get-started) de desenvolvimento.
+O app roda em um [ Docker container](https://www.docker.com/get-started).
 ### Requisitos
 * Docker v19.03.6
 * Meteor v1.8.0.2
