@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "simple-todos",
   "private": true,
   "scripts": {
@@ -9,12 +10,12 @@
     "visualize": "meteor --production --extra-packages bundle-visualizer"
   },
   "dependencies": {
-    "@babel/runtime": "^7.1.5",
+    "@babel/runtime": "^7.9.2",
     "classnames": "^2.2.6",
     "eslint": "^5.15.3",
     "meteor-node-stubs": "^0.4.1",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "meteor": {
     "mainModule": {
