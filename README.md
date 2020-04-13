@@ -43,5 +43,14 @@ $ docker run --publish 3000:3000 --name smartdevs-container smartdevs
 ```
 Navegue até https://localhost:3000 você deve ver o app funcionando.
 
+### Docker Toobox
+Se você estiver utilizando o docker toobox o app vai estar disponível no ip da VM docker-machine.
+
+para descubrir o ip execute:
+```console
+$ docker-machine ip
+```
+Se o ip for 192.168.99.100 por exemplo, navegue até https://192.168.99.100:3000 você deve ver o app funcionando.
+
 
 
